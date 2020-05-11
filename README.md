@@ -1,2 +1,1 @@
 # Corporate-Site
-# SkillHacks
